@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Dotfiles Syntax Highlighting",
+			"description": "ShellScript (Bash) syntax highlighting for your all of your dotfiles in Sublime Text 2.",
+			"author": "Matt Banks",
+			"homepage": "https://github.com/mattbanks/dotiles-syntax-highlighting-st2",
+			"last_modified": "2012-09-10 11:15:00",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.0",
+						"url": "https://nodeload.github.com/mattbanks/SublimeYammy/dotiles-syntax-highlighting-st2/v1_0"
+					}
+				]
+			}
+		}
+	]
+}
