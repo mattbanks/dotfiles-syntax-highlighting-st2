@@ -4,7 +4,8 @@ Want ShellScript (Bash) syntax highlighting for your dotfiles? You're damn right
 
 ## Get Started
 
-- Copy `Shell-Unix-Generic.sublime-settings` to `~/Library/Application Support/Sublime Text 2/Packages/User`
+- Clone into `~/Library/Application Support/Sublime Text 2/Packages/`
+- Restart Sublime Text 2
 - ???
 - Profit
 
@@ -34,8 +35,7 @@ If you want other file types, add them in or submit a pull request.
 
 ### To Do
 
-- Create installer script to copy files over
-- Make into full ST2 package and add to Package Control
+- Add ST2 package and add to Package Control
 
 ### Credits
 
