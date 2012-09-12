@@ -18,6 +18,7 @@
 		".osx",
 		".packages",
 		".pkginit",
+		".screenrc",
 		".vim",
 		".vimrc"
 	]
