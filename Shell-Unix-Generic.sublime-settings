@@ -19,6 +19,7 @@
 		".packages",
 		".pkginit",
 		".vim",
-		".vimrc"
+		".vimrc",
+		".wgetrc"
 	]
 }
