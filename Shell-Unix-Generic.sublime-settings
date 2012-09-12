@@ -19,6 +19,8 @@
 		".packages",
 		".pkginit",
 		".vim",
-		".vimrc"
+		".vimrc",
+		".zhsrc",
+		".zlogin"
 	]
 }
