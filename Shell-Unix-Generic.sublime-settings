@@ -23,7 +23,7 @@
 		".vim",
 		".vimrc",
 		".zhsrc",
-		".zlogin"
+		".zlogin",
 		".wgetrc"
 	]
 }
