@@ -20,13 +20,18 @@ Install via [Package Control](http://wbond.net/sublime_packages/package_control)
 `.gitattributes`
 `.gitconfig`
 `.gitignore`
+`.hushlogin`
 `.inputrc`
 `.npmrc`
 `.osx`
 `.packages`
 `.pkginit`
+`.screenrc`
 `.vim`
 `.vimrc`
+`.zhsrc`
+`.zlogin`
+`.wgetrc`
 
 If you want other file types, add them in or submit a pull request.
 

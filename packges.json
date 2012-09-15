@@ -6,12 +6,12 @@
 			"description": "ShellScript (Bash) syntax highlighting for your all of your dotfiles in Sublime Text 2.",
 			"author": "Matt Banks",
 			"homepage": "https://github.com/mattbanks/dotfiles-syntax-highlighting-st2",
-			"last_modified": "2012-09-10 12:45:00",
+			"last_modified": "2012-09-15 18:41:00",
 			"platforms": {
 				"*": [
 					{
-						"version": "1.0",
-						"url": "https://nodeload.github.com/mattbanks/dotfiles-syntax-highlighting-st2/zipball/v1.0.1"
+						"version": "1.1",
+						"url": "https://nodeload.github.com/mattbanks/dotfiles-syntax-highlighting-st2/zipball/v1.1"
 					}
 				]
 			}
