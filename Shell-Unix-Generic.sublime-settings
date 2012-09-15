@@ -24,5 +24,6 @@
 		".vimrc",
 		".zhsrc",
 		".zlogin"
+		".wgetrc"
 	]
 }
