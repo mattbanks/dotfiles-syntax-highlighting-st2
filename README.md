@@ -29,7 +29,7 @@ Install via [Package Control](http://wbond.net/sublime_packages/package_control)
 `.screenrc`
 `.vim`
 `.vimrc`
-`.zhsrc`
+`.zshrc`
 `.zlogin`
 `.wgetrc`
 
