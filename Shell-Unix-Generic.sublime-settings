@@ -22,7 +22,7 @@
 		".screenrc",
 		".vim",
 		".vimrc",
-		".zhsrc",
+		".zshrc",
 		".zlogin",
 		".wgetrc"
 	]
