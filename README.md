@@ -38,3 +38,9 @@ If you want other file types, add them in or submit a pull request.
 ### Credits
 
 - Matt Banks ([@mattbanks](http://twitter.com/mattbanks))
+
+#### Contributors
+
+- [mathiasbynens](https://github.com/)
+- [lotsofcode](https://github.com/lotsofcode)
+- [vivek](https://github.com/)
