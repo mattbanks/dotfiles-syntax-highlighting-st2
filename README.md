@@ -41,6 +41,6 @@ If you want other file types, add them in or submit a pull request.
 
 #### Contributors
 
-- [mathiasbynens](https://github.com/)
+- [mathiasbynens](https://github.com/mathiasbynens)
 - [lotsofcode](https://github.com/lotsofcode)
-- [vivek](https://github.com/)
+- [vivek](https://github.com/vivek)
