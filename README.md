@@ -27,8 +27,6 @@ Install via [Package Control](http://wbond.net/sublime_packages/package_control)
 `.packages`
 `.pkginit`
 `.screenrc`
-`.vim`
-`.vimrc`
 `.zshrc`
 `.zlogin`
 `.wgetrc`

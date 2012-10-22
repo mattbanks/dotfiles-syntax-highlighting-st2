@@ -20,8 +20,6 @@
 		".packages",
 		".pkginit",
 		".screenrc",
-		".vim",
-		".vimrc",
 		".zshrc",
 		".zlogin",
 		".wgetrc"
