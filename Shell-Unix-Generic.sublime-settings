@@ -20,8 +20,11 @@
 		".packages",
 		".pkginit",
 		".screenrc",
-		".zshrc",
 		".zlogin",
+		".zlogout",
+		".zprofile",
+		".zshenv",
+		".zshrc",
 		".wgetrc"
 	]
 }
