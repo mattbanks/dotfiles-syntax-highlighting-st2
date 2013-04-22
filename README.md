@@ -14,6 +14,7 @@ Install via [Package Control](http://wbond.net/sublime_packages/package_control)
 `.bash_prompt`
 `.bashrc`
 `.brew`
+`.curlrc`
 `.exports`
 `.functions`
 `.git`
