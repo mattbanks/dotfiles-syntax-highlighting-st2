@@ -33,6 +33,7 @@ Install via [Package Control](http://wbond.net/sublime_packages/package_control)
 `.zprofile`
 `.zshenv`
 `.zshrc`
+`.xsessionrc`
 `.wgetrc`
 
 If you want other file types, add them in or submit a pull request.
