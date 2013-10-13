@@ -4,7 +4,7 @@ Want ShellScript (Bash) syntax highlighting for your dotfiles? You're damn right
 
 ## Get Started
 
-Install via [Package Control](http://wbond.net/sublime_packages/package_control)
+Install via [Package Control](https://sublime.wbond.net/)
 
 ## File Types Supported
 
