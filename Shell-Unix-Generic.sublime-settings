@@ -21,7 +21,7 @@
 		".packages",
 		".pkginit",
 		".screenrc",
-		".symlink"
+		".symlink",
 		".zlogin",
 		".zlogout",
 		".zprofile",
