@@ -1,4 +1,4 @@
-# Dotfiles Syntax Highlighting for Sublime Text 2
+# Dotfiles Syntax Highlighting for Sublime Text 2/3
 
 Want ShellScript (Bash) syntax highlighting for your dotfiles? You're damn right you do!
 
@@ -49,3 +49,4 @@ If you want other file types, add them in or submit a pull request.
 - [vivek](https://github.com/vivek)
 - [darinmorrison](https://github.com/darinmorrison)
 - [alrra](https://github.com/alrra)
+- [theskumar](https://github.com/theskumar)
