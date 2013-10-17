@@ -28,6 +28,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 `.packages`
 `.pkginit`
 `.screenrc`
+`.symlink`
 `.zlogin`
 `.zlogout`
 `.zprofile`
@@ -35,6 +36,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 `.zshrc`
 `.xsessionrc`
 `.wgetrc`
+`symlink`
 
 If you want other file types, add them in or submit a pull request.
 
