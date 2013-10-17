@@ -28,6 +28,7 @@
 		".zshenv",
 		".zshrc",
 		".xsessionrc",
-		".wgetrc"
+		".wgetrc",
+		"symlink",
 	]
 }
