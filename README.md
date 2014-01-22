@@ -16,6 +16,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 `.brew`
 `.curlrc`
 `.exports`
+`.extra`
 `.functions`
 `.git`
 `.gitattributes`
