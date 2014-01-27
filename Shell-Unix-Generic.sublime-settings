@@ -9,6 +9,7 @@
 		".brew",
 		".curlrc",
 		".exports",
+		".extra",
 		".functions",
 		".git",
 		".gitattributes",

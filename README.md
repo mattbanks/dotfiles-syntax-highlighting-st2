@@ -16,6 +16,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 `.brew`
 `.curlrc`
 `.exports`
+`.extra`
 `.functions`
 `.git`
 `.gitattributes`
@@ -52,3 +53,4 @@ If you want other file types, add them in or submit a pull request.
 - [darinmorrison](https://github.com/darinmorrison)
 - [alrra](https://github.com/alrra)
 - [theskumar](https://github.com/theskumar)
+- [kikobeats](https://github.com/kikobeats)
