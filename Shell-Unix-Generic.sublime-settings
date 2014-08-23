@@ -28,8 +28,15 @@
 		".zprofile",
 		".zshenv",
 		".zshrc",
+		".zpreztorc",
 		".xsessionrc",
 		".wgetrc",
-		"symlink"
+		"symlink",
+		"zshrc",
+		"zshenv",
+		"zlogin",
+		"zlogout",
+		"zprofile",
+		"zpreztorc"
 	]
 }
