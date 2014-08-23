@@ -38,6 +38,14 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.zpreztorc`
 - `.xsessionrc`
 - `.wgetrc`
+- `Brewfile`
+- `Berkfile`
+- `Cheffile`
+- `Dockerfile`
+- `Gemfile`
+- `Rakefile`
+- `symlink`
+- `Vagrantfile`
 - `symlink`
 - `zshrc`
 - `zshenv`
@@ -46,7 +54,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `zprofile`
 - `zpreztorc`
 
-If you want other file types, add them in or submit a pull request.
+If you want other file types add them in or submit a pull request.
 
 ### Credits
 
