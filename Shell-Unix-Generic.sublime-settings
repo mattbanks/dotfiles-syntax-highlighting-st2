@@ -15,7 +15,7 @@
 		".gitattributes",
 		".gitconfig",
 		".gitignore",
-		".gitmodules"
+		".gitmodules",
 		".hushlogin",
 		".inputrc",
 		".npmrc",
