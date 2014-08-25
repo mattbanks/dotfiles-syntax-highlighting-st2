@@ -15,6 +15,7 @@
 		".gitattributes",
 		".gitconfig",
 		".gitignore",
+		".gitmodules"
 		".hushlogin",
 		".inputrc",
 		".npmrc",
@@ -28,8 +29,22 @@
 		".zprofile",
 		".zshenv",
 		".zshrc",
+		".zpreztorc",
 		".xsessionrc",
 		".wgetrc",
-		"symlink"
+		"Brewfile",
+		"Berkfile",
+		"Cheffile",
+		"Dockerfile",
+		"Gemfile",
+		"Rakefile",
+		"symlink",
+		"Vagrantfile",
+		"zshrc",
+		"zshenv",
+		"zlogin",
+		"zlogout",
+		"zprofile",
+		"zpreztorc"
 	]
 }
