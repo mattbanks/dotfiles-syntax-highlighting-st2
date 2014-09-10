@@ -42,7 +42,6 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.zpreztorc`
 - `.xsessionrc`
 - `.wgetrc`
-- `Dockerfile`
 - `symlink`
 - `symlink`
 - `zshrc`
