@@ -10,11 +10,14 @@ Install via [Package Control](https://sublime.wbond.net/)
 
 - `.ackrc`
 - `.aliases`
+- `.antigen`
 - `.bash_profile`
 - `.bash_prompt`
 - `.bashrc`
 - `.brew`
 - `.curlrc`
+- `.env`
+- `.envrc`
 - `.exports`
 - `.extra`
 - `.functions`
@@ -22,6 +25,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.gitattributes`
 - `.gitconfig`
 - `.gitignore`
+- `.gitmodules`
 - `.hushlogin`
 - `.inputrc`
 - `.npmrc`
@@ -38,14 +42,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.zpreztorc`
 - `.xsessionrc`
 - `.wgetrc`
-- `Brewfile`
-- `Berkfile`
-- `Cheffile`
-- `Dockerfile`
-- `Gemfile`
-- `Rakefile`
 - `symlink`
-- `Vagrantfile`
 - `symlink`
 - `zshrc`
 - `zshenv`
