@@ -32,6 +32,7 @@
 		".zprofile",
 		".zshenv",
 		".zshrc",
+		".zsh-theme",
 		".zpreztorc",
 		".xsessionrc",
 		".wgetrc",
