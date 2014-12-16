@@ -39,6 +39,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.zprofile`
 - `.zshenv`
 - `.zshrc`
+- `.zsh-theme`
 - `.zpreztorc`
 - `.xsessionrc`
 - `.wgetrc`
