@@ -21,6 +21,7 @@
 		".gitmodules",
 		".hushlogin",
 		".inputrc",
+		".npmignore",
 		".npmrc",
 		".osx",
 		".packages",
