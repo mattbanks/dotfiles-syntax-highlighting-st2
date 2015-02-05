@@ -28,6 +28,8 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.gitmodules`
 - `.hushlogin`
 - `.inputrc`
+- `.jshintignore`
+- `.npmignore`
 - `.npmrc`
 - `.osx`
 - `.packages`

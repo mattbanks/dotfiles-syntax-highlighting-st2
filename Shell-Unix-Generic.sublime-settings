@@ -21,6 +21,8 @@
 		".gitmodules",
 		".hushlogin",
 		".inputrc",
+		".jshintignore",
+		".npmignore",
 		".npmrc",
 		".osx",
 		".packages",
