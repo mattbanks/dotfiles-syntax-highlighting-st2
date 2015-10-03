@@ -9,6 +9,7 @@
 		".bashrc",
 		".brew",
 		".curlrc",
+		".editorconfig",
 		".env",
 		".envrc",
 		".exports",
