@@ -6,6 +6,7 @@
 		".antigen",
 		".bash_profile",
 		".bash_prompt",
+		".bash_aliases",
 		".bashrc",
 		".brew",
 		".curlrc",
