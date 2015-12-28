@@ -12,6 +12,7 @@
 		".editorconfig",
 		".env",
 		".envrc",
+		".eslintignore",		
 		".exports",
 		".extra",
 		".functions",
