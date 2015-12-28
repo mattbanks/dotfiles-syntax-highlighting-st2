@@ -19,6 +19,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.editorconfig`
 - `.env`
 - `.envrc`
+- `.eslintignore`
 - `.exports`
 - `.extra`
 - `.functions`
@@ -74,3 +75,4 @@ If you want other file types add them in or submit a pull request.
 - [Jeloi](https://github.com/Jeloi)
 - [gwarnants](https://github.com/gwarnants)
 - [michelegera](https://github.com/michelegera)
+- [gwarnants](https://github.com/gwarnants)
