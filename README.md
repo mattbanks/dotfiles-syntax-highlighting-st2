@@ -11,6 +11,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.ackrc`
 - `.aliases`
 - `.antigen`
+- `.bash_aliases`
 - `.bash_profile`
 - `.bash_prompt`
 - `.bashrc`
@@ -30,6 +31,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.gitmodules`
 - `.hushlogin`
 - `.inputrc`
+- `.jsbeautifyrc`
 - `.jshintignore`
 - `.npmignore`
 - `.npmrc`
@@ -76,3 +78,5 @@ If you want other file types add them in or submit a pull request.
 - [gwarnants](https://github.com/gwarnants)
 - [michelegera](https://github.com/michelegera)
 - [gwarnants](https://github.com/gwarnants)
+- [xtream1101](https://github.com/xtream1101)
+- [thecodechef](https://github.com/thecodechef)
