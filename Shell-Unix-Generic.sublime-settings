@@ -25,6 +25,7 @@
 		".hushlogin",
 		".inputrc",
 		".jshintignore",
+		".jsbeautifyrc",
 		".npmignore",
 		".npmrc",
 		".osx",
