@@ -17,7 +17,6 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.bashrc`
 - `.brew`
 - `.curlrc`
-- `.editorconfig`
 - `.env`
 - `.envrc`
 - `.eslintignore`
