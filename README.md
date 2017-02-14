@@ -18,6 +18,14 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.brew`
 - `.curlrc`
 - `.env`
+- `.env.development`
+- `.env.test`
+- `.env.production`
+- `.env.local`
+- `.env.development.local`
+- `.env.test.local`
+- `.env.production.local`
+- `.env.example`
 - `.envrc`
 - `.eslintignore`
 - `.exports`
@@ -79,3 +87,4 @@ If you want other file types add them in or submit a pull request.
 - [gwarnants](https://github.com/gwarnants)
 - [xtream1101](https://github.com/xtream1101)
 - [thecodechef](https://github.com/thecodechef)
+- [diegorv](https://github.com/diegorv)
