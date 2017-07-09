@@ -26,6 +26,9 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.env.test.local`
 - `.env.production.local`
 - `.env.example`
+-	`.env.testing`
+-	`.env.dusk.testing`
+-	`.env.dusk.local`
 - `.envrc`
 - `.eslintignore`
 - `.exports`
