@@ -38,6 +38,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.gitattributes`
 - `.gitconfig`
 - `.gitignore`
+- `.gitignore_global`
 - `.gitmodules`
 - `.hushlogin`
 - `.inputrc`
