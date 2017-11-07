@@ -44,6 +44,7 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.inputrc`
 - `.jsbeautifyrc`
 - `.jshintignore`
+- `.lftprc`
 - `.npmignore`
 - `.npmrc`
 - `.osx`
